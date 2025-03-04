@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html>
+  <head profile="http://dublincore.org/documents/2008/08/04/dc-html/">
+    
+    
+    
+      <title>The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1 « Chronicling America « Library of Congress</title>
+      <meta http-equiv="Content-Language" content="en-us" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+      <link rel="stylesheet" media="screen" type="text/css" href=/media/css/lochead.06d82f58f829.css />
+      <link rel="stylesheet" media="screen" type="text/css" href=/media/css/locfoot.67de26538680.css />
+      <link rel="preload" as="script" href="/media/js/jquery.min.883bf0ec72cf.js">
+      <link rel="preload" as="script" href="/media/js/lab.min.e842152f94c9.js">
+      
+        <script async src="https://assets.adobedtm.com/f94f5647937d/624e2240e90d/launch-0610ec681aff.min.js"></script>
+      
+    
+    <style>
+        .alert {
+            clear: both;
+            padding: 10px 14px;
+            border-bottom: 1px solid #000;
+            font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+            background-color: #D1332E;
+            margin: .25rem 0 1rem;
+            margin-top: 0px;
+            color: #FFF;
+        }
+
+        .alert a {
+            color: #FFF !important;
+            text-decoration: underline;
+        }
+
+        .alert a:hover {
+            text-decoration: none;
+        }
+    </style>
+
+    
+    
+            <meta name="description" content="The news scimitar. (Memphis, Tenn.) 1907-1926" />
+        <meta name="keywords" content="Memphis (Tenn.)--Newspapers.,Shelby County (Tenn.)--Newspapers.,Tennessee--Memphis.--fast--(OCoLC)fst01204194,Tennessee--Shelby County.--fast--(OCoLC)fst01209894" />
+
+        <link title="Dublin Core Metadata Schema" rel="schema.DC" href="http://purl.org/DC/elements/1.1/" />
+        <meta name="DC.title" content="The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1" />
+        <meta name="DC.publisher" content="Gilbert D. Raine" />
+        <meta name="DC.issued" content="1919-08-21" />
+        <meta name="DC.identifier" content="info:lccn/sn98069867" />
+        <meta name="DC.identifier" content="info:oclcnum/39898320" />
+        <meta name="DC.identifier" content="urn:issn:2473-3199" />
+        <meta name="DC.type" content="text" />
+        <meta name="DC.subject" content="Memphis (Tenn.)--Newspapers." />
+        <meta name="DC.subject" content="Shelby County (Tenn.)--Newspapers." />
+        <meta name="DC.subject" content="Tennessee--Memphis.--fast--(OCoLC)fst01204194" />
+        <meta name="DC.subject" content="Tennessee--Shelby County.--fast--(OCoLC)fst01209894" />
+        
+        <meta name="DC.language" content="eng" />
+        
+        <link title="MODS Metadata Schema" rel="schema.mods" href="https://www.loc.gov/standards/mods/mods.xsd" />
+        <meta name="mods.title" content="The news scimitar." />
+        <meta name="mods.place" content="Memphis, Tenn." />
+        <meta name="mods.place" content="Tennessee--Shelby--Memphis" />
+        <meta name="mods.url" content="https://chroniclingamerica.loc.gov/lccn/sn98069867/1919-08-21/ed-1/seq-1/?andtext=&amp;date1=1918&amp;date2=1920&amp;dateFilterType=yearRange&amp;index=26&amp;language=&amp;lccn=sn98069867&amp;ortext=Spanish+Flu%2C+influenza%2C+Spanish+influenza%2C+pandemic&amp;phrasetext=&amp;proxdistance=5&amp;proxtext=&amp;rows=50&amp;searchType=advanced&amp;state=" />
+        <meta name="mods.issn" content="2473-3199" />
+        <meta name="mods.lccn" content="sn98069867" />
+        <meta name="mods.languageTerm" content="eng" />
+        
+
+        <meta name="citation_title" content="The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1" />
+        <meta name="citation_issn" content="2473-3199" />
+        
+        <meta name="citation_issue" content="1919/08/21" />
+        <meta name="citation_date" content="1919/08/21" />
+
+
+    
+
+    <link href="/media/img-std/fav.0537fd9021c6.ico" rel="shortcut icon"/>
+    <link title="NDNP Page Search" href="/search/pages/opensearch.xml"
+          rel="search" type="application/opensearchdescription+xml" />
+    <link title="NDNP Title Search" href="/search/titles/opensearch.xml"
+          rel="search" type="application/opensearchdescription+xml" />
+    <link rel="alternate" type="application/rss+xml" title="News about Chronicling America - RSS Feed"
+          href="https://www.loc.gov/rss/ndnp/ndnp.xml" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="dc.title" content="Chronicling America | Library of Congress" />
+    <meta name="description" content="Search America's historic newspaper pages from 1756-1963 or use the U.S. Newspaper Directory to find information about American newspapers published between 1690-present. " />
+    <meta name="dc.contributor" content="National Endowment for the Humanities" />
+    <meta name="dc.subject" content="American History" />
+    <meta name="dc.subject" content="Historical Newspapers" />
+    <meta name="dc.subject" content="America's Historic Newspapers" />
+    <meta name="dc.subject" content="Chronicling America" />
+    <meta name="dc.coverage.spatial" content="United States of America" />
+    <meta name="dc.coverage.temporal" content="1756 - 1963" />
+    <meta name="dc.identifier" content="https://chroniclingamerica.loc.gov/" />
+    <meta name="dc.type" content="Text" />
+    <meta name="dc.type" content="Still image" />
+    <meta name="dc.type" content="Newspaper" />
+    <meta name="dc.type" content="Periodical" />
+    <meta name="dc.type" content="Web page" />
+    <meta name="dc.rights" content="Text is U.S. Government Work" />
+    <link rel="dc.rights" title="Rights Restriction" href="//www.loc.gov/text-us-government-work" />
+    <link rel="dc.rights" title="Rights Restriction" href=" https://chroniclingamerica.loc.gov/about/#rights_and_reproductions" />
+    <meta name="dc.language" content="eng" />
+    <link type="text/css" rel="stylesheet" href="/media/base.cd2f33504fd2.css" />
+    <link type="text/css" rel="stylesheet" href="/media/jquery-ui.8f822337c37f.css" />
+    <link type="text/css" rel="styelsheet" href="/media/ui_carousel.1abe6873cc8d.css" />
+    
+    <link rel="canonical" href="https://chroniclingamerica.loc.gov/lccn/sn98069867/1919-08-21/ed-1/seq-1/" />
+    <link rel="primaryTopic" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1#page" />
+    <link rel="resourcemap" type="application/rdf+xml" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.rdf" />
+    <link rel="alternate" type="application/json" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.json" />
+    <link rel="alternate" type="image/jp2" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.jp2" />
+    <link rel="alternate" type="application/pdf" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.pdf" />
+    <link rel="alternate" type="application/xml" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/ocr.xml" />
+    <link rel="alternate" type="text/plain" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/ocr.txt" />
+    <link rel="up" href="/lccn/sn98069867/1919-08-21/ed-1/" />
+    <link rel="up" href="/batches/tu_carla_ver01/" />
+    <link rel="up" href="/reel/0041562167A/" />
+    
+    <meta property="og:image" content="https://chroniclingamerica.loc.gov/lccn/sn98069867/1919-08-21/ed-1/seq-1/thumbnail.jpg" />
+    <meta property="og:title" content="The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1" />
+    <meta property="og:description" content="The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1, brought to you by University of Tennessee, and the National Digital Newspaper Program." />
+
+    <link rel="preload" as="script" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/openseadragon.min.js">
+    <link rel="preload" as="fetch" crossorigin="anonymous" href="https://chroniclingamerica.loc.gov/iiif/2/tu_carla_ver01%2Fdata%2Fsn98069867%2F0041562167A%2F1919082101%2F0251.jp2/info.json">
+
+    <style type="text/css">
+       /* viewer */
+       #viewer_container
+       {
+           width: 100%;//500px;
+           height: 900px;
+           background-color: black;
+           border: 1px solid black;
+           color: white;   /* for error messages, etc. */
+       }
+       .overlay
+       {
+           border: 1px solid red;
+           opacity: 0.4;
+           -moz-opacity: 0.4;
+           -webkit-opacity: 0.4;
+           background: red;
+       }
+    </style>
+
+    <style type="text/css" media="screen">
+      #imageViewer_nav {
+          /*border: 0px;*/
+          margin: 0px;
+          padding: 0px;
+      }
+      #item-ctrl {
+          padding: 0px;
+          margin: 0px;
+      }
+    </style>
+
+
+
+  </head>
+  <body>
+    
+    <div id="container">
+    <!-- loc header -->
+    <div id="h-wrapper" class="fix-float">
+      <div id="header" class="fix-float">
+	<div class="logo">
+	  <a href="https://www.loc.gov/" accesskey="1"><img src="/media/images/img-head/logo-loc.fc4ccd0baaa2.png" width="141" height="32" alt="Library of Congress" /></a>
+	</div>
+	<div class="nav">
+          <ul>
+            <li><a class="btn-loc" href="https://ask.loc.gov/" accesskey="2">Ask a Librarian</a></li>
+            <li><a class="btn-loc" href="https://www.loc.gov/library/libarch-digital.html" accesskey="3">Digital Collections</a></li>
+            <li><a class="btn-loc" href="http://catalog.loc.gov/" accesskey="4">Library Catalogs</a></li>
+          </ul>
+	</div>
+	<div class="search">
+	  <form action="https://www.loc.gov/search/" method="get">
+            <label class="search_label" for="search">Search</label>
+            <div class="search_wrap">
+              <input type='hidden' name='new' value='true'/>
+              <input id="search" type="search" name="q" maxlength="200" accesskey="/" title="Search the Library of Congress website" placeholder="Search Loc.gov" class="locsuggest" />
+              <button class="button" id="search_button" type="submit">GO</button>
+            </div>
+	  </form>
+	</div>
+      </div>
+    </div>
+
+    <div id="crumb_nav">
+      <a href="https://www.loc.gov/">The Library of Congress</a>
+      
+      
+
+      
+      <span> &gt; </span><a href="/">Chronicling America</a>
+      
+      <span> &gt; </span><a href="/lccn/sn98069867/">The news scimitar.</a>
+      
+      <span> &gt; </span><a href="/lccn/sn98069867/1919-08-21/ed-1/">August 21, 1919, 4th Edition</a>
+      
+      <span> &gt; </span><a href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/">Image 1</a>
+      
+      
+      
+    </div>
+
+    
+    <div class="alert" role="alert">
+        <b>Announcement:</b> In 2025, Chronicling America will transition to a new interface. <a href="https://www.loc.gov/collections/chronicling-america/about-this-collection/">Visit the new website</a> for the most recent newspaper additions. <a href="https://www.loc.gov/ndnp/migration/">More info »</a>.
+    </div>
+
+
+    <div id="content">
+    
+    
+<div id="main_body">
+  
+  
+    <div id="top_branding">
+        <div class="neh_logo"><a href="https://www.neh.gov"><img src="/media/images/logo_neh.48c59a21b35f.png" width="186" height="46" alt="National Endowment for the Humanities" /></a></div>
+        <div class="chron_logo"><a href="/"><img src="/media/images/logo_chron_top.701cd5eb0000.png" width="179" height="31" alt="" /></a></div>
+        <div class="neh_txt">
+            <p>Search America&#39;s historic newspaper pages from 1756-1963 or use the U.S. Newspaper Directory to find information about American newspapers published between 1690-present. Chronicling America is sponsored jointly by the <a href="https://www.neh.gov" class="external">National Endowment for the Humanities<span> external link</span></a> and the Library of Congress. <a href="/about/" class="ar-more-gray">Learn more</a></p>
+        </div><!-- end id:neh_txt -->
+    </div><!-- end id:top_branding -->
+    <div class="clear"></div>
+
+  
+
+    
+    
+    <div id="tabs-container" ></div>
+    
+    <div class="sharetool_container">
+        
+<div class="nav_result" style="display: none">
+    <a class="ar-back backtoresults" href="">Back to search results</a>
+    <span class="previous disabled"><a class="ar-back" href="">Previous</a> |</span>
+    <span class="current"></span> of <span class="total"></span>
+    <span class="next disabled">| <a class="ar-more" href="">Next</a></span>
+</div>
+
+        <!-- Toolbar -->
+        <div class="locshare-this" id='instance_id1001' style='display:none'>
+            
+            <code>{
+                  title: 'The news scimitar. (Memphis, Tenn.) 1907-1926, August 21, 1919, 4th Edition, Image 1',
+                  download_links: [
+                  {
+                   link: 'https://www.loc.gov/rss/ndnp/ndnp.xml',
+                   label: 'application/rss+xml',
+                   meta: 'News about Chronicling America - RSS Feed',
+                  },
+                  
+{
+    link: '/lccn/sn98069867/1919-08-21/ed-1/seq-1.jp2',
+    label: 'image/jp2',
+    meta: '',
+},
+{
+    link: '/lccn/sn98069867/1919-08-21/ed-1/seq-1.pdf',
+    label: 'application/pdf',
+    meta: '',
+},
+{
+    link: '/lccn/sn98069867/1919-08-21/ed-1/seq-1/ocr.xml',
+    label: 'application/xml',
+    meta: '',
+},
+{
+    link: '/lccn/sn98069867/1919-08-21/ed-1/seq-1/ocr.txt',
+    label: 'text/plain',
+    meta: '',
+},
+
+                  ]
+                }
+            </code>
+            
+        </div><!-- end id:instance_id1001 -->
+        <div class="clear-share"><!-- --></div>
+    </div>
+    
+    <div id="page_head">
+        
+<h1>
+The news scimitar., August 21, 1919, 4th Edition, Image 1<br />
+<span>About <a href="/lccn/sn98069867/">The news scimitar. (Memphis, Tenn.) 1907-1926</a></span>
+</h1>
+
+    </div><!-- end id:page_head -->
+    
+
+    
+    
+
+    
+    <div id="main"><span style="width: 100%;"><a name="skip_menu"></a></span>
+        
+        
+
+        
+        
+    </div>
+    
+
+    
+    <div class="clear"><!-- --></div>
+    
+
+    
+
+  <div class="clear"></div>
+  <p class="gray nomargin-bottom2">Image provided by: University of Tennessee</p>
+  <div id="item-wrapper">
+    <div id="imageViewer_nav">
+      <div id="item-ctrl">
+        <div style="padding-left: 160px; padding-top: 10px;">
+        <span class="c-images">
+          <label for="pageNum">Image:</label>
+          <select name="pageNum" id="pageNum" class="input-small" onChange="window.location.href=this.value">
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-1/" selected="selected">1</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-2/" >2</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-3/" >3</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-4/" >4</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-5/" >5</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-6/" >6</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-7/" >7</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-8/" >8</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-9/" >9</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-10/" >10</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-11/" >11</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-12/" >12</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-13/" >13</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-14/" >14</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-15/" >15</option>
+            
+            <option value="/lccn/sn98069867/1919-08-21/ed-1/seq-16/" >16</option>
+            
+          </select>
+          of 16.
+        </span>
+        <span class="c-pages">
+          
+          <strong>Page</strong>
+          
+          <a rel="next" href="/lccn/sn98069867/1919-08-21/ed-1/seq-2/">
+              <img src="/media/images/item_btn_next.217d5a459e64.png" width="17" height="17" alt="Next Page"></a>
+          
+          <a rel="up" href="/lccn/sn98069867/1919-08-21/ed-1/">
+              <small>All Pages</small></a>
+        </span>
+        <span class="c-issues">
+          
+          <a rel="previous" href="/lccn/sn98069867/1919-08-20/ed-1/seq-1/"><img src="/media/images/item_btn_prev.e6cdacb138bc.png" width="17" height="17" alt="Previous Issue" /></a>
+          
+          <strong>Issues</strong>
+          
+          <a rel="next" href="/lccn/sn98069867/1919-08-22/ed-1/seq-1/"><img src="/media/images/item_btn_next.217d5a459e64.png" width="17" height="17" alt="Next Issue" /></a><a class="all" href="/lccn/sn98069867/issues/"><small>All Issues</small></a>
+          
+        </span>
+        
+        <span class="c-view">
+          <!-- view -->
+          <a class="text" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/ocr/">Text</a>
+            <span>|</span> <a href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.pdf">PDF</a>
+          <!-- download -->
+          <span>|</span> <a href="/lccn/sn98069867/1919-08-21/ed-1/seq-1.jp2" download="sn98069867-19190821.jp2">JP2 (4.0 MB)</a>
+        </span>
+        <span class="c-clip">
+             <a id="clip" href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/print/image_4964x6838_from_0,0_to_4964,6838/" target="print">
+                <img src="/media/images/item_clip_icon.ca271d1ef537.png" width="18" height="17" alt="Clip Image" />
+            </a>
+        </span>
+        
+        </div>
+      </div><!-- end id:item-ctrl -->
+
+      
+      <div id="viewer_container"></div>
+      
+
+      <div class="item-foot">
+        <ul class="plain">
+          <li><i>The news scimitar.</i> (Memphis, Tenn.), 21 Aug. 1919. <i>Chronicling America: Historic American Newspapers</i>. Lib. of Congress.  &lt;<a href="/lccn/sn98069867/1919-08-21/ed-1/seq-1/">https://chroniclingamerica.loc.gov/lccn/sn98069867/1919-08-21/ed-1/seq-1/</a>&gt;</li>
+          
+        </ul>
+      </div>
+    </div><!-- end id:imageViewer_nav -->
+
+  </div><!-- end id:item-wrapper -->
+
+
+
+</div><!-- end id:main_body -->
+
+<div id="omni">
+    <input type="hidden" id="eVar4" value="University of Tennessee" />
+    <input type="hidden" id="prop13" value="University of Tennessee" />
+</div>
+
+
+
+    
+    <noscript>
+        <h3>Newspaper Page Text</h3>
+        
+            <pre>
+                <p>( Price Three CentT&quot;)<br />C Price Three Cents )<br />Weather Forecast<br />Generally fair; with<br />slightly higher tem<br />perature Friday. &#39;<br />7tS<br />OKhX NKW8PAPEB IX MEMPHIS Sir PLIED BY ASSOCIATED PRESS &#39; 5<br />WITH NEWS OP THE DAYLIGHT HOURS AS SOON AS IT HAPTEN&#39;S.<br />VOLUME 39.<br />MEM14IIS, TENN., THIT iAY AFTEl.JNOOX, AUGUST 21, lUli).<br />f 3 I i ,<br />lXTKKM PAGES<br />mm i<br />mm mi m<br />if<br />1 1 THAI<br />JEDITIOtjf1<br />ji<br />.WW<br />B.E.SS<br />i&quot;mWS&amp; OFF PRISON IB ISOMK<br />I SHELVES; SEND ii tmmm. FALL&#39;S QUESTIONS<br />Message for Business Read<br />justment Delivered to Cot<br />ton States Merchants by<br />Norman Johnson.<br />&quot;The period of readjustment In com<br />mercial life in this country, which be<br />n with tremendous slump In prices<br />of many article, and now has reached<br />a period of greater advances. Is about<br />ready for stabilising Influences,&quot; said<br />Norman H. Johnson Thursday In open<br />ing the general conference on business<br />condittonn at tka Cotton States Mer<br />chants&#39; convention.<br />&quot;I have made a close study of busi<br />ness conditions for years, and I believe<br />the extravagant buying of luxuries and<br />high-priced wearing apparel, Is about<br />at an end,&quot; he said. &quot;Retail dealers<br />may expect a general slackening of<br />trade for the next five months, large<br />ly because the rising cost of food and<br />other absolute necessities will tax the<br />resources of most of the people. The<br />commercial pendulum Is swinging back<br />ward again, and It will be a time for<br />close buying and careful estimating by<br />you merchants. n<br />&quot;A recent survey of ,000 stores<br />? roved that more than 90 per cent of<br />he owners did not know why they<br />were not making money, and did not<br />know much about their own business.<br />You ought to know how much each<br />Department of our business Is navlnar<br />Von. and whv. Keen account tflth averv<br />department and you&#39;ll find,. If you have<br />not aone so, mat some or the goods<br />you thought were profitable are losing<br />J&#39;ou money In tied-up capital. More<br />oarers are on your shelves than ever<br />tome In by the front door. Ooods must<br />e kept moving If you are to make a<br />profit on them. That is one secret of<br />mccess.&quot;<br />Live Store at Black Oak.<br />Other addresses Thursday morning<br />were one on present business condi<br />tions, by Fred Collins, of the Bank of<br />Commerce and Trust com nan v. and one<br />ny turner Allison, or tne Merritt store,<br />Black Oak, Ark. Black Oak has less<br />t than 400 people, but Mr. Ellison said<br />1 his store is known throughout the con<br />; fined of Craighead county, because It<br />J believes In publicity. The store pub<br />lishes a weekly letter that Is sent to<br />. thousands of farmers, holds a monthly<br />s trade day. for the exchange and sale of<br />farm products, keeps In &#39;touch with<br />every customer and prospective eus<br />. tomer, helps the farmers to secure good<br />;&#39; prloes and aids them with their home<br />problem. -. . . &#39; .<br />During the afternoon most of the time<br />,vs 8 .devoted to a conference on onran-.<br />fxed efforts as a factor (n community<br />development, led by wm. H. FltsHugn,<br />president of the Chamber 6t Commerce,<br />t Among the other speakers were; O. B.<br />Snell. take Village, Ark.; B. 3, High,<br />I Tupelo, Miss.; Ma J. M. A. Walker, Cov-<br />lngton, Tenn.; Luther Ellison, Black<br />s Oak, Ark.; Wm. T. Archer and K. Fon<br />4 taine Little, Sheffield, Ala.; C..O, Car<br />penter, jonesooro, atk.; . xaanan,<br />Blytheville, Ark.; Mayor J; D. Johnson,<br />Jackson, tenn.; 3. W. Hedgepeth, Rip<br />ley. Tenn.: W. 8. Brown. luka. Miss.:<br />F. W. Fuerstenbergr Olllett, Ark., and<br />h. t. rrancis, Mans, Tenn; , .<br />Co-operation and Service.&#39;<br />T. B. King during the afternoon talk<br />-ed of good roads and tlfeir relation<br />to commercial life of a community, and<br />Graham Hall, of Nashville, spoke brief<br />ly on fire prevention,<br />k The convention is keeping closely In<br />1 line with the association motto, &#39;&#39;co<br />operation and service,&quot; at every ses<br />sion and each address has been along<br />the lines laid down for the present con<br />vention, which closes . late Thursday<br />afternoon.<br />The association will elect new -officers<br />late Thursday. There has been<br />such a succession of buslness-llka ses<br />sions that no attention has. been paid<br />to anything that remotely resembled<br />politics. It seems to be conceded that<br />a Tennessean will head the association<br />this vesr and many wish to vote for W.<br />&#39; H. Maxwell, of Stanton, a member of<br />the association since It was organized<br />and a member of the board of gover<br />nors. , ... .. - ....<br />Members of the nominating commit<br />tee, announced , by the&quot; president. Mr.<br />Lamb; Thursday morning, are W. I.<br />Moody, D. T. Braddock, T. C. Ross, E.<br />L, Horton, E. S. Morrison, W. 8, Cope<br />land, . W. H. Morton and J. D. Mar-<br />bury; They are to report at the close<br />- of the day&#39;s program. - &#39;<br />Johnson May Win Again.<br />The gentlemen named on the resolu<br />tions committee are W. B, Cleveland,<br />,Li.W. Crawford. A. I.. Hill, 3. W -Cole.<br />niamW. H. Petty, W. B. Campbell, A.<br />-, B, Carter, W. T, McKnlghjt and J. W.<br />Brown.<br />Two contests are to be decided be-<br />fnra &#39;final A fnilrn m .nt A ,-n will<br />El I he awarded the Memphis salesman who<br />secures the largest number of new<br />members. The judges In this, contest<br />will be T. B. Hooker, J. R. Prlvett and<br />L. R. Davidson &#39;<br />A prize will also be awarded the best<br />speaker of the convention. That prize<br />was won last year by the Hon. J. D.<br />Johnson, mayor of Jackson, Tenn.,<br />who won It on the score nf brevity.<br />Judges In the contest are T. B. King,<br />J. A. Osoinach, Luther Ellison, Norman<br />H. Johnson and H, A. Ramsay.&#39;<br />CONTRACTORS BUSY.<br />A tJNIO?<br />The con<br />I busy bu<br />NION CtTT, Tenn.,&quot;Aus). 21. (Bpl.)<br />contractors ana an carpenters are<br />building new nouses sna Darns,<br />bungalows, &#39; churches and SchOullrouses<br />In this county, more so than ever be<br />fore. &#39; In fact, business In all lines here<br />(s most active.;<br />I Hi<br />MEMPHIS METEOROLOGY,<br />Augst 21,<br />1919.<br />-Temperature-<br />Hour. Dry Bulb. Wet Bulb. Humid&#39;y<br />7 p.m. yes&#39;day 78 ... 71 6i<br />7 a.m. today.. 74, : 71 &quot; 8<br />Noon today..: 80 &#39;75 80<br />f Maximum temperature, &#39;8; minimum,<br />jfS. Hun sets today 7:42 p.m.. rises to<br />morrow e:2o a.m. .Moon rises J: to<br />night Precipitation, 0 inches.<br />Tennessee Generally fair except locaU<br />showers ana tnunner storms in easi<br />slightly warmer Friday. ,<br />Mississippi Local showers and thun<br />dcr storms probable,<br />Arkansas Partly cloudy.<br />Alabama Local showers and thunder<br />storms probable. &#39;<br />Kentucky Generally fair except local<br />showers and thunder storms in east<br />Friday slightly warmer.<br />I.ouislana Partly cloudy, thunder<br />showers in south. Friday.<br />Oklahoms-Partly cloudy. &#39; . V<br />East Texas Partly cloudy, scattered<br />thunder showers in east.<br />West yrexas Partly cloudy.&#39; -.<br />North and South Carolina and Geor<br />gia l.ocal showers and thunderstorms<br />probable. ,<br />Fllroda Local showers probable, :<br />- Kanrss Fair, warmer - in west &#39; and<br />north central . -<br />I llUI IILLIllMU<br />1 WASHINGTON, Aug. 81. Amend<br />ments to the food control act Imposing<br />a 15,000 fins and Imprisonment of two<br />years for profiteering were ordered fav<br />orably reported today by the house ag<br />ricultural committee. ,<br />Thr legislation was proposed by Attorney-General<br />Palmer and extends the<br />terms of the act to Include among the<br />list of necessities &quot;wearing apparel,<br />containers of food, feed or fertilizers,<br />fuel ell and natural gas.&quot;<br />President Wilson Is asked In a reso<br />lution Introduced today by Representa<br />tive Carss, of Minnesota, to furnish<br />such Information as may be In the pos<br />session of the federal trade commis<br />sion which will Identify the proportion<br />I that labor cost forms in the total cost<br />of production of coal, Bteel. copper,<br />meat, canned goods ana other neces<br />saries.<br />The resolution was introduced at tne<br />request of tha nstional federation of<br />federal employes, which announced that<br />the ratification would effectually dls-<br />doss of the vicious fallacy that labor<br />costs represent the chief item in the<br />increased cost oi uving.&quot;<br />FIRST OF OHIO DEALERS<br />TRIED; FOUND GUILTY<br />COLUMBUS, O., Aug. 21. Theodore<br />Leonard, Jr., of Columbus, one of the<br />40 dealers arrested last week by the<br />state of Ohio, on charges of violating<br />the Smith cold storage law by holding<br />meats in cold storage longer than the<br />time limits of the law, was found<br />Suilty on one count In municipal court<br />ere today, and was given the maxi<br />mum sentence a fine of $500 and costs.<br />The .Leonard case Is the first of the<br />40 to come to trial and will be made<br />a test- case. Attorneys for Leonard<br />said the case would be annealed Im<br />mediately and would be rushed through<br />the Ohio supreme court as quickly as<br />possible. ,<br />The charge upon which Leonard was<br />found guilty was that he kept poultry<br />In cold storage longer tnan iu montns,<br />the time limit set by tne smith law.<br />STOCK RAISERS OBJECT<br />TO PACKING CONTROL<br />WASHINGTON, Aug,<br />reducers object to lerli<br />21. Live stock<br />producers object to legislation proposing<br />Strict feguljttbn of the packing Indus<br />I rv. n Mil v w . ljvncn. reirreneniuiK v.a r<br />tfornla and Arizona stockmen today told<br />the senate ftffrlrmlturat nommlttee. -<br />&quot;We feel that the packing Industry<br />is.lhe trorkethif-nd&#39;&#39;f our business,<br />he said, &quot;and that the Kenyon put<br />would tend to demoralize and hamper<br />it, ..The bllT is entirely destructive and<br />at, present, with prices falling on our<br />steers,, it will, cripple us further.&quot; J<br />Thovfph he had talked to bankers&#39; and<br />live stock associations before coming<br />to Washington, .Lynch Insisted under<br />Senator Kertyon&#39;s questioning that,<br />neither he nor his associates has been<br />Influenced, to their opinions by the five<br />packing companies. &#39; .<br />GOLF MATCHES ARE 1<br />i PLAYEDINRAIN<br />PITTSBURGH,&#39; Aug. 21.The eight<br />uurvlvers on the national amateur golf<br />championship at the Oakmont Country<br />dub began their round matches today<br />as a heavy rain pelted down upon the<br />course. It appeared as If the rain would<br />continue moac of the day.<br />Francis Oulmet and J. Wood Piatt,<br />of North Hills, were the fast players off<br />the first tee. The other three pairs<br />out were: Robert T. Jones, Jr., of At-<br />City: George W. Hoffner, of Bala, and<br />w. c ownes, jr., uakmont. and Da<br />vidson Herron, Oakmont, with W. J.<br />Thompson, Canada,<br />The standing of the matches at the<br />end ef the first eighteenth hole was:<br />Francis Oulmet, Boston, and J. Wood<br />Plstt, Philadelphia, all even.<br />- W. C. Fownes, jr Pittsburgh, 2 im<br />on George Hoffner, Philadelphia.<br />Davidson Herron. Pittsburgh, 8 up on<br />W. J. Thompson, Toronto. i-<br />R. E. Knenper. Sioux Ulty. t up on<br />Robert T. Jones, Jr., Atlanta.<br />PLACE BLAST BLAME.<br />WASHINGTON. Aug. 21. The ex<br />plosion at the Rarjtan arsenal on Aug.<br />i, which caused the death of seven<br />persons, was caused by an employe<br />tampering with explosive material, ac<br />cording to the report of a special board<br />of inquiry., The report was made public-<br />by .Secretary Baker.<br />Poland Has Battalion of Death;<br />t - Women Take Part in Present War<br />i nrfli&amp;,ffs7<br />Commander ef Polish women&#39;s bsttallon, in fjrearound, and some&#39;<br />&quot;TUiftsi In not the &quot;onlv couatrv that<br />women,&#39; commanded by femalof officers, has been organised In Poland. This battalion recently took part in a tirrlfiu<br />battle with Ukranian forces at Leraberg, in which they lost many of their number. ..... f -<br />ON PEACE TREATY<br />President Writes Definite Re<br />plies to Twenty Queries<br />Submitted to Him-Says He<br />Cannot Proclaim Peace.<br />WASHINGTON, Aug. 21. President<br />Wilson has not the power to declare<br />peace by proclamation, nor could hs<br />consent In any circumstances to take<br />such a course prior to the ratification<br />of a formal treaty of peace by the sen<br />ate. The president bo wrote Senator<br />Fall today in answer to one of the 20<br />written questions the senator present<br />ed at the White House conference<br />Tuesday.<br />Replying to another question the<br />president said the provision of the<br />treaty that it should come into force<br />after ratification by Germany and three<br />of the principal associated powers<br />operated merely .to establish peace be<br />tween those ratifying powers and that<br />It was &quot;questionable whether It<br />can be said that the league, of nations<br />is In any true sense created by the as<br />sociation of only three of the billed and<br />associated governments.&quot;<br />As to the question of when normal<br />conditions might he restored, the presi<br />dent said he could only express the<br />confident opinion that immediate rati<br />fication of the treaty and acceptance<br />of the covenant of the league as written<br />would &quot;certainly within the near future<br />reduce the cost of living&quot; both In this<br />country and abroad through the re<br />storation of production and commerce<br />to normal.<br />To Senator Fall&#39;s questions relating<br />to the disposition of Germsny&#39;s pos<br />sessions, the president said the<br />treaty conveyed no title to the<br />allied or associated powers, but<br />merely &quot;intrusts disposition of the<br />territory In question to their decision.&quot;<br />&quot;Germany&#39;s renunciation In favor of<br />the principal allied and associated pow<br />ers, the president continued, &quot;of her<br />rights and titles to her overseas pos<br />sessions Is meant similarly to, operate<br />as vesting in those powers a trustee<br />ship with respect of their final dispo<br />sition and government.&quot;<br />&quot;There nan been a provisional agree<br />ment,&quot; the president added, In this con<br />nection, &quot;as to the disposition of these<br />overseas possessions, whose confirma<br />tion and execution is dependent upon<br />the approval of the league of nations<br />andthe United States Is party to that<br />provisional agreement.<br />Explains Agreement, &#39;<br />The president said) the only agree<br />ment between France and Great Britain<br />with regard to African territory, of<br />4. .which hQwe cognisant, conoerued ra-<br />aisposmon oi rignis aireaay possessea<br />hy them on that, continent.<br />, It was deemed wise, he said, that the<br />United States should be represented<br />bv one member of the commission for<br />settling the new- frontier lines of Bel<br />glum, and Germany &quot;because of the<br />universal opinion that America&#39;s repre<br />sentative would add to the commission<br />a useful element of entirely disinter<br />ested judgment.&#39;.&#39;- The same thought<br />applied, he added, to appointment of<br />an American representative on the com<br />mission set up to exercise authority<br />over the plebiscite In upper Silesia.<br />The- president wrote the senator hs<br />had no -official Information as to<br />whether .Norway, Sweden, . Penmark,<br />Holland or Switzerland would join the<br />league.<br />1 The president&#39;s letter follows:<br />&quot;My Dear Senator Fall You left Ves<br />terday In my hands certain written<br />questions which I promised you I would<br />answer. I am hastening to fulfill that<br />promise. &#39;<br />&quot;I feel constrained to say In reply to<br />your first question not only that In my<br />judgment I have not the power by<br />proclamation to declare that peace ex<br />ists, but that I could In no clroum<br />stances consent to take such a course<br />prior to the ratification of a formal<br />treaty of peace. I feel it due to per<br />fect frankness to say that it would In<br />my opinion put a stain upon dur na<br />tional honor which we never could ef-<br />(Continued on Page 13, Column 1.)<br />, DISCARDS BEAR.<br />Sam Bennle Manlot, grocer, residing<br />at 848 Linden avenue, has filed with the<br />clerk of the United Htates district court<br />papers signifying his Intention of be<br />coming a cltisen of the United States.<br />Maniot Is a native of Russia and land<br />ed in New York in 1904 from Holland.<br />CHARGED WITH MURDER.<br />CHATTANOOGA, Tenn., Aug, 21.<br />Walter M. TuirkfW Is under arrest on a<br />charge of murder in connection with<br />the death of Miss Millie Crawford, a<br />clerk in a bank here.<br />.<br />4 w &#39;<br />3 ;&quot;xmAv<br />can boast of havlnir had a women&#39;s<br />MASKED MEN LOOT<br />MAIL GAR AFTER<br />HOLDING UP CREW<br />NASHVILLE, Tenn., Aug.<br />ville passenger train No. 7, rthe<br />was held up aDout i o ciock this morning between Columbia, 40<br />miles from this city, and Pulaski, Tenn., by masked bandits, who<br />carried off the mail pouches but, did ,not attempt to tamper with<br />the express car and its contents. The robbers whose number<br />has been reported as four men, are being sought by officers in<br />several counties adjacent to the scene of the robbery.<br />II<br />Service Entirely Suspended<br />When Union Sympathizers<br />Make Attack on Strike<br />Breaker.<br />NASHVILLE, Tenn., Aug., 21. Street<br />car service throughout tho city was en<br />tirely suspended today, as a result of<br />the strike of conductors and motormen<br />of the Nashville Railway and Light<br />company which began last night at I<br />o&#39;clock. The company attempted late<br />last night to operate a few cars with<br />nonunion employes, but the cars were<br />attacked by union sympathisers and the<br />effort was quickly abandoned.<br />The strikers demanded reinstatement<br />or all employes discharged for Jotnlni<br />the union, return union men to their oh<br />runs and recognition of the right of<br />the men to organise.<br />Citisens living at a distance, due at<br />work early, were handled largely b:<br />generous automobile owners who packei<br />their cars with pedestrians as they<br />came to town, A steady drlxsle start<br />ing about ? o&#39;clock, however, added to<br />the unpleasant prospects (or the travel<br />ing puoiic.<br />A force of 100 conductors and motor,<br />men wets reportei to be waiting at the<br />barns to take ovT their cars when the<br />sompajiy aaciuea JU givo up the ser<br />vice. -...- &#39; - &#39;<br />As a result of last night&#39;s disorders<br />the police made over 60 arrests.&#39; Only<br />one man was taken to the hospital, a<br />victim of a flying brick. Several cars<br />had their windows smashed, but only<br />one -Was fired on. t<br />Mayor Oupton this morning . ordered<br />Charles Ridley, commanding the Nash<br />ville volunteer polloe, to have 100 of his<br />men ready (or duty early this after<br />noon. The mayor declared he would<br />make every effort -to have cars run<br />during the day. . Trouble Is not antici<br />pated until later In the day. It was<br />planned to put a policeman on each car.<br />BILL TO MAKE YORK &quot;<br />: REGULAR LIEUTENANT<br />&#39; WASHINGTON, Aug. 21. A bill cre<br />ating Sergt. Alvin C. York, of Tennes<br />see, a second lieutenant in the regular<br />army on the retired list was introduced<br />In the house yesterday by Congressman<br />Hull. This measure has the approval<br />of Secretary Baker and Oan. March,<br />chief of staff, and Is based on the fact<br />that the feat performed by Sergt. York<br />was &quot;separate and outstanding, an act<br />not ertelled by any other Individual<br />during the war with Germany.&quot;<br />Congressman Hull has also conferred<br />with Representative Crago, of Pennsyl<br />vania, chairman of the subcommittee of<br />military affairs, committee on army<br />retirements. Representative Crago has<br />assured the Tennessee representative<br />he will approve the measure If it comes<br />with the approval of the war depart<br />ment. Although not &quot;specifically set forth, II<br />Is assumed that If the bill Is passed<br />and Sergt. York Is placed on the army<br />retired list as a second lieutenant, he<br />will be entitled the retired pay, which<br />amounts to about $100 a month,<br />&quot;This will be a signal honor for<br />Sergt. York,&quot; said Representative Hull,<br />&quot;and while all officials of the war de<br />partment recognise It Is fully merited,<br />they hesitated to give their approval<br />for fear of establishing a - precedent<br />which might be followed by a flood of<br />similar bills.&quot;<br />of the fe&#39;mai soldiers.<br />battalion of death. A similar hodv of<br />MARKS<br />STREET RAILWAY<br />STRIKE IN CAPITAL<br />21. (Spl.) Louisville &amp; Nash<br />Cincinnati-Montgomery flyer,<br />i ne pandits are supimsed to have got<br />ten on the train nt I&#39;olumbla. After the<br />train left that city the masked men ap<br />peared, climbing Into the cab of the<br />engine. At the point of revolvers they<br />torced .the engineer to cut loose the<br />passenger conches and the express car<br />and to run down the track with the<br />mall coach.<br />After proceeding some distance, the<br />engine and mall eoarh were stopped un<br />der orders from the robbers. The<br />masked men then forced the enslne<br />crew and mall crew to alight. Keeping<br />me trainmen constantly covered by<br />their revolvers, the rnhheni then nrn-<br />ceeded to take possession of tne mail<br />After securing the mall popurhes, In<br />cluding the registered mail sacks, the<br />men disconnected the engine and start<br />ed it running wild toward Pulaski. The<br />engine finally came to a stop, having<br />run down, at Wales, this side of Pti-<br />laskl.<br />.The exart amount of booty the rob<br />bers obtained has not yet been ascer<br />tained, and the amount may not be<br />known for several days, owing to delay<br />In checking the contents of the mall<br />sacks taken by the postal authorities.<br />ine oanoiTs are supposed to have had<br />an automobile in wultlns near the<br />scene of the holdup, and are believed to<br />nave mane their escape in this way.<br />Following the holdup, the alarm was<br />sent broadcast to neighboring counties<br />and the hunt for the men begun.<br />BIRMINGHAM GETS NEWS<br />OP TENNESSEE ROBBERY<br />BIRMINGHAM, Ala., Aug. Jt. I-ouls-vllle<br />A Nashville passenger train No. T,<br />due In Birmingham from Louisville at<br />4:11 a.m., was held up and rohbud by<br />unidentified robbers at a point eight<br />miles south of Columbia, Tenn., shortly<br />after midnight today.<br />The men are believed to have boarded<br />the train at Columbia, according to In<br />formation reaching here. Making their<br />way to the engine, they forced the en<br />gineer and fireman to uncouple the en<br />glne and mail car from the rest of the<br />train and run almost to Pulaski. Tenn..<br />wherethe robbers broke Into the mall<br />Hoi much was obtained In ihelr haul<br />could not tie estimated oy otnciais nere,<br />111 SAILORS IN<br />TEUTONS WOUNDED<br />. .<br />Disorders in Which Several<br />- Civilians and One German<br />Seaman Are Injured Grow<br />Out of Dance Hall Quarrel.<br />COPENHAGEN, Aug. 21. Collision<br />between German and American sailors<br />on Tuesday at Neufahrwasser has re<br />sulted In the wounding of several<br />civilians and one German seaman, ac<br />cording to Danzig dispatches received<br />here today.<br />Neufahrwasser Is a seaport four miles<br />north of Danclg.<br />The disorders grew out of a quarrel<br />in a dance hall Monday, night, accord<br />ing to these dispatches. Americans In<br />volved In the disturbance, which was<br />continued in the streets after the sail<br />ors left the dance hall, returned to<br />their ship, the destroyer Hale.<br />On Tuesday seamen on leave from<br />the German cruiser Frankfort came to<br />blows with American sailors and It Is<br />said civilians also attacked the Amir,<br />leans.<br />The Americans, supported by French<br />seamen rrom tne destroyer Claymore,<br />charged the crowds. Shots are said<br />to have been fired from the Claymore,<br />woundlne four Germain sliehtlv.<br />Frontier guards dispersed the crowds<br />and the Americans and the French re<br />turned tp their ships.<br />proclaimmart1al law<br />throughout hungary<br />COPENHAGEN. Aug. 21 Martial law<br />has been proclaimed throughout Hun<br />gary, says I<br />Wednesday.<br />GREEKS AND TURKS MAY<br />RESENT BULGAR RULE<br />ATHENS, Aug.- 21. (By the Asso<br />ciated Press ) Greeks and Turks, who<br />form the majority of the populations<br />in the district of DeUeagatch, accord<br />ing to trustworthy information received<br />here, are aroused over reports that the<br />American peace delegates in fnv are<br />favorable to continuance of Bulgarian<br />rule In the district. The report adds<br />that the Greeks and Turks are pre<br />paring to resist continued Bulgarian<br />occupation by arms,<br />NEGRO ATTACKER OF.&#39;<br />WHITE WOMAN LYNCHED<br />HENDERSON, N. C, Aug. 21. Wal<br />ter Elliott, negro, was lynched last<br />nleht by a franklin county mob. 10<br />miles east of Youngsvllle. after he Is<br />reported to hsve confessed to making<br />an attack on the wife of a prominent<br />farmer- Tuesday night, according to a<br />telephone message received here today.<br />The negro was .taken from Sheriff<br />k&#39;earnev wltWn two miles of Louis-<br />burg, where was being taken to the<br />county jail, his body being rinaiea witn<br />bullets and then carried bark to the<br />scene of the crime and swung to the<br />limb of a tree In a church yard.<br />The attack on the woman was made<br />during the absence of her husband, who<br />was curing tobacco at a barn nearby.<br />CHANGE DEVICES FOR<br />AIRMEN IN U. S. NAVY<br />WASHINGTON, Aug. 21. Changes<br />In the devices to he worn by naval<br />aviators were announced at the navy<br />department today. Hereafter the gold<br />pin with double wings will beworn by<br />7iiallfied flyers on summer white uni<br />orms and the same Insignia will bi<br />embroidered on the winter blous. Stu<br />dent aviators will wear a similar pin<br />but one wlnr as will resular members<br />of the seaplane flight rrews extent that<br />In the ease of the latter the material<br />he silver. . , , ,<br />CLASH WITH HUNS<br />BODY UNDER TRAIf<br />SAVED BY FORMER<br />Mrs. Foster Symes, Nee Miss<br />Cynthia Edrington, Herself<br />Hurt, Holds Up Husband,<br />Keeps Body Being Crushed.<br />Herself badly bruised but retaining<br />her presence of mind after a train had<br />hurled her from an automobile, Mrs.<br />J. Fester Symes, of Denver, Col., for<br />merly Mies Cynthia Kdrlngton. ef<br />Memphis, grasped her husband whlls he<br />lay pinned beneath the wrecked ear<br />and holding him from the ground in<br />strength born of devotion she kept her<br />husbands body from being dragged<br />and ground to death In a frightful<br />automobile aocldent near Denver Hun<br />day night, according to advices from<br />&quot;iern cuy reacntng Memphis<br />Thursday.<br />The car In which was a party of<br />Denver society people was naught as it<br />attempted to make a Mtrt ,rnii.i,i<br />behind a backing train, at Sedalis, in<br />the envlrous of Denver. Mrs. John<br />hanger, a prominent Denver society<br />woman, received Injuries from which<br />she died soon &#39;after MnJ. Svnies was<br />badly, but not mortally hurt. Mrs.<br />Symes was considerably bruised. Mrs.<br />Frank R. Ashley and John Sanger, hus<br />band of the woman killed, received<br />slight bruises.<br />The accident took place as the motor<br />party was returning from a country<br />society event. As the crossing of the<br />Denver A Rio Grande railroad was ap<br />proached MaJ. Symes, who was driving,<br />started across the track Just as the<br />engine backed up to take the slack<br />out of the train, He stopped the ma<br />chine and waited while five attentats<br />were made apparently for the heavllytj<br />iruien ireigni train to maxe a start.<br />Following the last attempt, the caboose<br />cleared the crossing and thinking all was<br />well MaJ. Byrnes again started to cross<br />the track. ,<br />Suddenly &#39;Backed.<br />Without the slightest warning, scrord<br />Ing to members of the party in the car,<br />the train started rapidly back and the<br />rear end of the caboose caught the mud<br />guard of the car, making it Impossible<br />for the engine of the aulumoblle to pull<br />tha machine free.<br />Rolled over like a ball, the automo<br />blls was dragged, and seeing a horrible<br />death facing all, MaJ. Byrnes, cried out:<br />&quot;Jump!&quot;<br />All compiled. Hardly had those who<br />Survived left their seats when the ma.<br />chine they had Jiint quit was turned<br />completely over amid tli grinding sound<br />of crumpling steel, timber and flesh.<br />Mrs, Sanger&#39;s life was crushed out al<br />most in an instant. The two other in<br />jured women crawled out.<br />Maj. Symes Entangled.<br />Mrs. Symes was thrown clear of the<br />car. Her husband whs ctnrht hv the<br />ankles by the left side or the machine<br />as It turned over. Tha rear platform<br />oi me en noose, raisea rrom Its trucks,<br />rested Its entire weight on the automo<br />bile. The train continued backing.<br />Caught as he was bv his ankle, the rest<br />of MaJ. Symes&quot; bodv was In Imminent<br />danger of being crushed by the crum<br />pling pans or me macnine.<br />As the train ttontinueri tr bark Mrfl<br />Symes grasped her husband by tho rms<br />and, following the retrograde movement<br />of the train, literally kept his weight<br />rrom ine ground, staggering under the<br />burden for more than 20 feet, when the<br />backing train finally stoppod, tha mo<br />torists&#39; car by this time being an un<br />recognisable mass.<br />When the train stopped It had to be<br />pulled forward before MaJ. Symes could<br />ha released from the wreckage and<br />the bodies of Mr. and Mrs Sanger could<br />be taken from beneath the car.<br />In her version of the accident as re<br />counted by the Denver Post. Mrs<br />Symes recounts vividly the details of<br />the tragedy but modestly leaves out the<br />heroic part she played In saving her<br />nusnana irom a mirnuie aeain.<br />In giving her version of the accl<br />dent, Mrs. Symes said:<br />Mrs, Symes Modest.<br />&quot;When we arrived at Sedalla the<br />crossing was DiocKen by a freight train,<br />We waited nearly 20 minutes and Mr<br />Symes then got out of the machine<br />ano spoke to the conductor, asking him<br />If he could not get the train off the<br />crossing in oruer that we might pass,<br />The conductor renlied that the<br />ing would be clear in a moment, and<br />then climbed to the top of the caboose<br />and signaled to tha engineer.<br />&quot;The train moved un. and when he<br />thought It was perfectly safe Mr. Symes<br />sjarted ahead. Without warning of any<br />Rind the train backed down upon us.<br />The first Impact hurled the machine<br />several feet down the track and we<br />all supposed the train wouhi slop be<br />fore striking us again, but It Continued<br />to bear down upon the maVhlne and<br />Mrs. Ashley, riding In the front seat<br />with Mr. Symes, and Mr. Bulkley, riding<br />on one of the small tonnrau seats,<br />leaped out.<br />&quot;Before the rest of us could make<br />a move the irain struck the machine<br />again and it began to tip over slowly,<br />the train pushing It along the track.<br />When the machine struck on Its side<br />I climbed out through the upper side<br />and Jumped; 1 don&#39;t know how 1 man<br />aged to do It,<br />&quot;Mr. and Mrs. Sanger and Mr. Symes<br />were caught In the machine. The back<br />wheels of the caboose were on top of<br />the machine when the train finally was<br />stopped 20 feet from the spot where<br />It first hit us.&quot;<br />TO BE SET FREE<br />A. J, McDonald, divorce specialist,<br />filed an even dozen divorce suits In<br />circuit court Thursday for that! many<br />discontented married folks.<br />Mrs. Bettie Parks is seeking free<br />dom from M. J. Parks on the ground<br />that he had deserted her; Mra Kate<br />MoKensle wants a divorce from A. 1.<br />McKensle for the same reason; Mrs.<br />Alice Sullivan declares her husband, O.<br />L. Sullivan, quit her when she was<br />In a delicate state nf health; Mrs. Mag<br />gie E. Crouch alleges J. H. Crouch hat,<br />failed to support her and has left her,<br />snd Mrs. D. M, Davis wants a divorce<br />from J. D. Davis, claiming he has not<br />only abandoned her but that when they<br />were married she wss only It snd he<br />unreasonably expected her to perform<br />duties of a woman of more mature age.<br />Mrs. Oma Nye wants freedom from<br />the control of M. ,Nye on the plea that<br />he looks upon the wine when It is red<br />and has deserted her, and Mrs. Mary<br />I.lehctirood wants freedom from A. A.<br />I.leberrood on what she deems a good<br />ground.<br />Others seeking divorces are Nettle<br />Fletcher from Jltn Fletcher. J. I.. Mays<br />from Ruth Mars, Columbus Woods from<br />Effle Woods, H. C. Chalmers from Ed<br />na Chalmers and Rachel Talbot from<br />Hinds Talbot. These give desertion, as<br />th cause oi action. , -<br />mm BEAUTY<br />EVEN DOZEN SEEK<br />Told Rumania<br />Must Reform<br />. . . . &quot;<br />NICHOLAS MISU.<br />Nicholas MIsu, who represents Ttu<br />mania at the peace conference, has<br />been told bv the supreme council that<br />his government will get Into serious<br />trouble if it continues to Ignore the<br />artnlBtlce terms as regards Hungary<br />MIsu Is said to be Rumania&#39;s ablest<br />statesman. &#39;<br />Tin Lizzie&#39;s Deeds<br />Deceive; Career Of<br />Devildog Held Up<br />Ford oari may be all right in their<br />place, but Thomas J. Griffin, of Dyers<br />burg, thinks Just about as much of one<br />fl Uncle Sum does of a counterfeit<br />dollar. As blasters of the aspirations<br />of youth, ems Ford in particular Is a<br />howling success, Griffin thinks, and the<br />reason for the above mentioned very<br />candid opinion concerning the well<br />known John Henry Is set out below.<br />During the course of the world war<br />Griffin attempted to enlist in the United<br />States marine corps. He was under<br />weight and therefore was rejected or<br />passed up until such time whan he<br />could measure up to the standard of<br />weight. .<br />Having reached that goal Griffin ep<br />pesred si the marine recruiting office<br />Wednesday and again stood sn exami<br />nation. He went threugh-wlth flying<br />colors. His right thumb was wearing<br />k ,handage because nf a slight &#39; bruise,<br />but that didn&#39;t stop him. lie was ac<br />cepted. Griffin then boarded the aforemen<br />tioned Ford for a trip to Dyersburg<br />to spread the good news of his accept<br />ance before departing, and all seemed<br />well, But his troubles were Just Start<br />ing. Bowling along through the country<br />between Memphis and Dyersburg,<br />striking a bump here and there, and<br />the vibration of the steering wheel of<br />&quot;Satanic Elisabeth&quot; for a time seemed<br />salubrious. Before the newly made<br />devildog reached home, however, the<br />seeming convalescent thumb had again<br />become virulently pathogenic, and so<br />great were the pain and possible In<br />crease In Infection that for a time at<br />least the doughty Dyersburglsn will re<br />main within the confines of the town of<br />hl birth.<br />His enlistment In the marine corps is<br />now held up Indefinitely for the second<br />time, until he has recovered from the<br />damage wrought by the Ford.<br />Griffin says that a Ford comes Just<br />about as near being an automobile as<br />Bevo does beer.<br />TROOPS GUARD PLANT<br />AND JJ1 IS QUIET<br />HAMMOND, Ind., Aug. 21,-WUh four<br />companies of state troops on guard,<br />quiet reigned today at the plant of the<br />Standard Steel t&#39;ar company, where<br />2.000 employes have been on strike for<br />several weeks. Six additional compa<br />nies of soldiers left Indianapolis at 7<br />o&#39;clock this morning and were due to<br />arrive here at noon.<br />The troops are camping Inside the<br />company&#39;s plant. The company an<br />nounced that a full force of new work<br />ers will be employed as soon as pos<br />sible. GRATZ BROWN GETS<br />HIS EXPENSES PAID<br />The chancery court has allowed R.<br />Grata Brown, attorney, the sum of 6,<br />representing his expense bill in the 1 1<br />ward T. Leech contempt case. Mr.<br />Brown Is the lawyer who took the lead<br />ing part In the prosecution of Mr. Leech<br />for contempt of Judge Peres&#39; court. Mr.<br />Leech was given a sentence of 10 days<br />In Jail, which he served, and was as<br />sessed with the costs of court. ,<br />Mr. Brown&#39;s expense bill was filed late<br />Wednesday, setting out the following<br />Items, printing brief for court of civil<br />appeals, (10.80; printing brief fur su<br />preme court,- 110.70: expense trip to<br />Jackson, 113.50; expense trip to Nash<br />ville. ;10; long distance calls, 16.50; to<br />tal, S.60.<br />CANADA PLACES WAR<br />VETERANS ON LANDS<br />OTTAWA, Ont, Aug. ti. Progress<br />made bv Canada In placing veterans of<br />the world war on farms Is Indicated<br />by figures recently given out by W. J.<br />Black, chairman of the soldier settle<br />ment board, which show that there have<br />been 17, in applicants or qualification<br />certificates made bv returned soldiers<br />and 12,594 of these applicants have been<br />passed as qualified.<br />The statement shows a total of gov<br />ernment loans to soldier farmers of<br />14.2S2.34S, of which s.7l0.12S was for<br />the purchase of land and the discharge<br />of encumbrances; I4.M8.491 for the pur<br />rhsse of stock and equipment and<br />$073,729 for improvements. The total<br />number of loans granted was 4,262 and<br />the average for the loans was I3,S4.<br />British Columbia, Alberta, Saskatche<br />wan and Manitoba were the provinces<br />In which most of the veterans sought<br />farms. -<br />CHINA&#39;S TRADE RUNS<br />OVER BILLION DOLLARS<br />SHANGHAI, Aug. &#39;..The value of<br />the direct foreign trade of China for<br />last year was the highest on record,<br />aggregating the equivalent of It, 311,<br />I77.e03 In gold. This result was due<br />to the universal sdvanre In prices snd<br />In the value of the tael (Chines colnl<br />and in enlte nf extensive shrinkage in<br />the merchandise hsndled owing to the<br />hindrances In trade imposed by war<br />conditions.<br />TJte total customs collected In 1918<br />weft the equivalent of S45.m.T7 gold.<br />aa cempartd U g8.,V,5.Ua la &#39;<br />MEXICO PROTESTS<br />AGAINST BANDIT<br />Asks U. S. to Withdraw Sol<br />diers Cavalry, Greatly<br />Aided by Airmen, Resumes<br />Trailing of Mexicans.<br />&#39;.WASHINGTON, Aug. 21. Tp MesU<br />nan ambassador hers has beep instruct&#39;,<br />ed by his government to protest to the<br />state department against the dtspatckv<br />of American troops across the border<br />and to request their withdrawal, ae- ,<br />cording to a statement issued at Mexico &#39;<br />City yesterday. .,<br />- - M<br />MARFA. Tex,, Aug, 21 As soon a tt<br />wss sufficiently light this morning to<br />follow the trails, the American punitive<br />expedition In Mexico took up the ban<br />dit chase tor the third day across thai;<br />border. One column pinked up the hoti<br />trail of two bandits believed to have,<br />been companions of the two bandits<br />captured lute yesterday by Capt. Lqn- &#39;<br />ard Matlack. ;<br />According to an unofficial report<br />hrouught to the Rio Grande last night,<br />the pursuit Is continuing over mountain<br />peivks, down steep slopes and through!<br />tiny mountain valleye.<br />By sunrise airplanes left the ground<br />here for l&#39;reeldlo, 60 miles south, where<br />a flying field base for the expedition<br />has been established. landing there&#39;<br />and getting gasoline and oil, tha air<br />planes flew across the Rio Orande over<br />palalsadea near OJInaga, along the<br />Conchos river valley to pick eip the,<br />trails. Tha cavalry resumed Its work<br />of snouting. Cavslry columns are &#39;:<br />searching out every canyon which coald<br />poHslhly be the hiding place of the<br />bandits,<br />Tha work of the aviators Is extremely<br />dangerous because there are tew landi1<br />log fields In Mexico. It Is necessary to<br />fly close to the ground, where the ban<br />dits may fire on the aviators, as they<br />did Tuesday. .<br />Many Close Shaves.<br />Flyers returning long after dark last &quot;<br />night to headquarters here, reported<br />many narrow escapes. One aviator had<br />flown down a narrow canyon under a<br />shelving rock to see If the bandits were<br />concealed under a shelf. Another<br />came In with his face covered by red<br />nintcnea caused py driving through a<br />hailstorm at high speed. &#39;<br />Aviators located all American col<br />umns In Mexico yesterday. The flyers<br />also found the Mexican federal column<br />under Gen. Antonio Pruneda near Cu<br />chlllo Paeado, and reported the location<br />of other small bodies of Carranaa<br />troops,<br />Few landings were mad In Mexico.<br />When the troops found a smooth land<br />ing place they placed a giant panel,<br />shaped letter &quot;T on the ground for tha<br />ruldance of the aviators. The aviators<br />isve been dropping orders to cavelrv<br />commanders from the air and returning<br />to the Presidio base.<br />When the flyers left this morning<br />they carried news bulletins furnished by<br />the Associated Press, which they<br />planned to drop for each cavalry troop<br />operating In Mexico, to give them news<br />of the outside world since they crossed<br />the border.<br />The American troops slept last night<br />on the trails of the bandits, after los<br />ing them Tuesday in .torrential rains,<br />picking up the trails again yesterday.<br />Mexicans Out Also.<br />Oen. Pruneda with approximately 260<br />Carransa cavalry troops camped for the<br />night near Cuchillo Parado, 40 miles up<br />the Conchos river from the base at<br />OJInaga. They left OJInaga last night<br />to tske the field In pursuit of the<br />bandits. American pack trains and<br />other units crossed and recrossed the<br />path of the Carransa troops without,<br />friction, aocordlng to reports from the<br />field,<br />Mexican Consul Cosme Bengochea, at(<br />Presidio, Texas, announced that the;<br />Pruneda troops were attempting the!<br />same object aa the American troops i<br />to run down and capture the bandits, j<br />He said he anticipated no trouble be-,<br />tween the two bodies or troops in the&#39;<br />field. He also denied Chloo Cano, the<br />bandit leader In OJInaga district, wss,<br />made captain of the Carransa column<br />stationed at San Jose, opposite indio,<br />Texas, on the Rio Grande.<br />MaJ.-Gen. Joseph T. Hickman, com<br />mander of the Southern department,<br />was expected here today to inspect the<br />troops In the Big Bend district. It<br />wss not known whether Gen. Dlckman<br />will go to the Rio Grandewhile he, Is<br />here.<br />American aviators are assisting Car<br />ransa officials In keeping In touch with<br />the forces of Oen. Pruneda, Which are<br />engaged In the pursuit of bandits along<br />the Conchos river, where the American<br />aviators were held prisoner. Ameri<br />can aviators yesterday carried, mes<br />snges from Mexican Consul Cosme<br />Bengerhea at Presidio, Texas, to Gen.<br />Pruneda.<br />The American troops are being guided<br />by civilian scouts selected from among<br />famous frontiersmen of the Big Bend<br />district who know every trail on both<br />sides of the Rio Grande snd speak<br />Spanish like natives. The soldiers have<br />been passing through small Mexican<br />settlements In the mountains, . paying<br />for everything they obtain and molest<br />ing none of the natives. Uggs are.<br />scarce and the prices are high. Some<br />times fresh meat is obtained from<br />butchered steers. .<br />There are many good horses In thw<br />Ojlrmga district and ranchers say If It<br />is possible for Renterla&#39;s bandits to ob<br />tain fresh moimia-at frequent Intervals<br />their escape from the punitive exnedi-<br />Hon will be easy, because they know<br />the ledge country and trails Ilk a<br />book.<br />Little Information ran be obtained<br />from tnstlves along the line of march,<br />the Mexicans fearing death if the ban<br />dits learn they have given any infor<br />mation to the Americans.<br />The Americsn troops have progress<br />ed so far Into the interior of Mexico. It<br />Is learned, that it has been found im<br />practicable to get forage and heavy<br />materials over the traUs. Yesterdsy<br />the cavslry obtained feed for the horses<br />from the nstlves paying cash for all<br />purchases. Long wagon trails are ply<br />ing between the quartermaster depots<br />here and the field base on the Kio<br />Grande, carrying rations and supplies<br />for the troops of the punitive expedK<br />tlon.<br />T MEN CAUGHT<br />IN RUSSIAN MUTINY<br />ARCHANGEL, Aug. 20. Two Ameri<br />can Y. M. C. A. men, Howard K. Mer<br />rill, of Somerville. Mass., and Thomas<br />L. Cotton, of Lingle. Wyo., were caught<br />amid heavy shell fire In a mutiny of<br />Russian troops at Tulgas on the Dvlna<br />river some time ago. Their experiences<br />have Just now been told. I<br />Merrill and Cotton, who were former<br />ly Dartmouth college athletes were<br />the only Americans In the village, which<br />was garrisoned by Russian troops, with<br />a few British officers. The Russians,<br />fearing that they were about to be cuit<br />off and surrounded by the Bolshevlkl,<br />determined to mutiny. They escorted<br />the two Americans to a blockhouse<br />which was under fire from Russian ar<br />tillery. . .<br />The blockhouse eventually became too<br />hot for the Russian escorts andthey<br />fled, leaving the Americans tfe make<br />their escape to Archangel by rof inf SM<br />tulles do a the ilvsr.<br />CHASE OVER LINES<br />in v -<br />y</p>
+            </pre>
+        
+    </noscript>
+
+    </div>
+
+    <!-- locfoot -->
+    <!-- begin: global footer -->
+    <div id="f-wrapper" class="fix-float">
+      <div id="footer" class="fix-float">
+	<div class="cols heading">
+          <h2>Connect with the Library</h2>
+          <p><a class="ar-more foot" href="https://www.loc.gov/homepage/connect.html">All ways to connect</a></p>
+	</div>
+	<div class="cols">
+          <h3>Find Us On</h3>
+          <a href="http://www.facebook.com/libraryofcongress"><img src="/media/images/img-foot/facebook.e3f5c4925eb3.gif" alt="Facebook" width="16" height="16" /></a> &nbsp; <a href="http://twitter.com/#!/librarycongress"><img src="/media/images/img-foot/twitter.f7a021a01fea.gif" alt="Twitter" width="16" height="16" /></a> &nbsp; <a href="http://www.youtube.com/libraryofcongress"><img src="/media/images/img-foot/youtube.b15d8dd5c7e8.gif" alt="YouTube" width="16" height="16" /></a> &nbsp; <a href="http://www.flickr.com/photos/library_of_congress/"><img src="/media/images/img-foot/flickr.f7923742ee9b.gif" alt="Flickr" width="16" height="16" /></a>
+	</div>
+	<div class="cols">
+          <h3>Subscribe &amp; Comment</h3>
+          <ul class="plain">
+            <li><a href="https://www.loc.gov/rss/">RSS &amp; E-Mail</a></li>
+            <li><a href="https://blogs.loc.gov/">Blogs</a></li>
+          </ul>
+	</div>
+	<div class="cols">
+          <h3>Download &amp; Play</h3>
+          <ul class="plain">
+            <li><a href="https://www.loc.gov/podcasts/">Podcasts</a></li>
+            <li><a href="https://www.loc.gov/today/cyberlc/index.php">Webcasts</a></li>
+            <li><a href="http://itunes.apple.com/us/institution/library-of-congress/id386017159" class="external foot mod">iTunesU<span> (external link)</span></a></li>
+          </ul>
+	</div>
+	<div class="cols">
+          <h3>Questions</h3>
+          <ul class="plain">
+            <li><a href="https://ask.loc.gov/">Ask a Librarian</a></li>
+            <li><a href="https://www.loc.gov/help/contact-general.html" accesskey="8">Contact Us</a></li>
+          </ul>
+	</div>
+	<div class="clear"><!-- --></div>
+	<p class="links">
+	  <a href="https://www.loc.gov/about/">About</a> |
+	  <a href="https://www.loc.gov/pressroom/login">Press</a> |
+	  <a href="https://www.loc.gov/hr/employment/index.php">Jobs</a> |
+	  <a href="https://www.loc.gov/philanthropy/index.php">Donate</a>
+	  <br />
+	  <a href="https://www.loc.gov/about/oig/">Inspector General</a> |
+	  <a href="https://www.loc.gov/homepage/legal.html" accesskey="9">Legal</a> |
+	  <a href="https://www.loc.gov/access/" accesskey="0">Accessibility</a> |
+	  <a href="https://www.loc.gov/global/disclaim.html">External Link Disclaimer</a> |
+	  <a href="http://www.usa.gov/">USA.gov</a>
+	</p>
+	<span class="speech"><a href="https://www.loc.gov/access/web.html">Speech Enabled</a></span>
+      </div><!-- end id:footer -->
+    </div><!-- end id:f-wrapper -->
+    <!-- end: global footer -->
+    </div>
+    
+    
+    
+
+
+
+
+    <script>
+      CDN_URL = "https://cdn.loc.gov";
+      JQUERY = "/media/js/jquery.min.883bf0ec72cf.js";
+      LAB_URL = "/media/js/lab.min.e842152f94c9.js";
+    </script>
+    <script src="/media/js/jquery.min.883bf0ec72cf.js"></script>
+    <script defer src="/media/js/suggest.min.a4038a2dd98b.js"></script>
+    
+<script src="/media/vendor/jquery-ui.2aec9f3d57b8.js" ></script>
+
+<script type="text/javascript">
+jQuery(function ($) {
+    var searchString = window.location.search.substring(1);
+    if (searchString) {
+        tab_url = '/tabs?' + searchString;
+    } else {
+        tab_url = '/tabs';
+    }
+    $('#tabs-container').load(tab_url, function() {
+        $("#tabs-container").trigger('chronam.tabsloaded', {});
+    });
+});
+</script>
+
+<script type="text/javascript">
+jQuery(function ($) {
+    $.getJSON("/reports/total-page-count.json", function (data) {
+        if (data.total_page_count) {
+            $(".total-page-count").removeAttr('hidden');
+            $(".total-page-count-value").text(Number(data.total_page_count).toLocaleString());
+        }
+    })
+});
+</script>
+
+<script type="text/javascript" src="/media/vendor/jquery.ba-bbq.min.07c72646c769.js"></script>
+<script type="text/javascript" src="/media/js/main.ba81888e49b0.js"></script>
+
+
+    
+        <script type="text/javascript" src="https://cdn.loc.gov/sites/chronicling-america.js"></script>
+    
+
+
+
+
+    <div id="page_data"
+	    data-static_url="/media/images/"
+	    data-width="4964"
+	    data-height="6838"
+	    data-page_url="/lccn/sn98069867/1919-08-21/ed-1/seq-1/"
+	    data-tile_url="/lccn/sn98069867/1919-08-21/ed-1/seq-1/"
+        data-iiif-url="https://chroniclingamerica.loc.gov/iiif/2/tu_carla_ver01%2Fdata%2Fsn98069867%2F0041562167A%2F1919082101%2F0251.jp2/info.json"
+	    data-coordinates_url="/lccn/sn98069867/1919-08-21/ed-1/seq-1/coordinates/"
+	    data-navigation_url="/search/pages/navigation/?"
+	></div>
+
+    <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/openseadragon.min.js" integrity="sha256-qIiBj8XqCj196KLyEX8fBJ0HiHUZmXYmYFciVQZ7nls="></script>
+    <script src="/media/vendor/jquery.ba-bbq.min.07c72646c769.js"></script>
+    <script src="/media/js/search.3f47d3efc327.js"></script>
+    <script src="/media/js/page.53edfcb18937.js"></script>
+
+  </body>
+</html>
